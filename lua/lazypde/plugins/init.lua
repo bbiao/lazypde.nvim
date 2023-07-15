@@ -1,0 +1,3 @@
+require("lazypde").init()
+
+return {}
