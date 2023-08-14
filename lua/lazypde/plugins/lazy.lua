@@ -21,7 +21,7 @@ return {
   { import = "lazyvim.plugins.extras.lang.cmake" },
   { import = "lazyvim.plugins.extras.lang.docker" },
   { import = "lazyvim.plugins.extras.lang.go" },
-  -- { import = "lazyvim.plugins.extras.lang.java" },
+  { import = "lazyvim.plugins.extras.lang.java" },
   -- add jsonls and schemastore packages, and setup treesitter for json, json5 and jsonc
   { import = "lazyvim.plugins.extras.lang.json" },
   { import = "lazyvim.plugins.extras.lang.python" },
