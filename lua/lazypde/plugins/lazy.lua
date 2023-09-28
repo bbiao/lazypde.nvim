@@ -28,5 +28,6 @@ return {
   { import = "lazyvim.plugins.extras.lang.ruby" },
   { import = "lazyvim.plugins.extras.lang.rust" },
   { import = "lazyvim.plugins.extras.lang.tex" },
+  { import = "lazyvim.plugins.extras.lang.yaml" },
   { import = "lazyvim.plugins.extras.test.core" },
 }
