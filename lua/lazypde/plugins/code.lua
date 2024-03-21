@@ -1,6 +1,4 @@
 return {
-  -- nvim-dap-ui depends on this
-  { "nvim-neotest/nvim-nio" },
   -- change trouble config
   {
     "folke/trouble.nvim",
