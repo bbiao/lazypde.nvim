@@ -101,7 +101,7 @@ return {
       {
         "MaximilianLloyd/ascii.nvim",
         config = function()
-          require("telescope").load_extension("ascii")
+          -- require("telescope").load_extension("ascii")
         end,
       },
     },
